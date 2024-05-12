@@ -1,7 +1,3 @@
-## Instalation :
-```bash
-> npm i i-downloader
-```
 
 ## Example
 ```js
